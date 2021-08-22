@@ -1,4 +1,5 @@
 👋 Hi, I’m @TheGreenJosip
+
 I'm 25 years old and live in Graz. A city in Ausria, Europe. A few months ago I finished my diploma for web-developement and now I'm accumulating the information into 
 my own project. As I moved out from my parents i started to make my flat smart. In every aspect. Soon i bought myself
 a raspberry and started to love coding different scripts. Over the time i aquired a wide base of knowledge around linux, javaScript, bash, NodeJS, PHP, SQL and a
