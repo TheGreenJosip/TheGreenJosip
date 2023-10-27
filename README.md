@@ -1,41 +1,45 @@
-👋 Hi, I’m @TheGreenJosip
+# Hello there, I'm Josip - or simply Jo 👋
 
-I'm 25 years old and live in Graz. A city in Ausria, Europe. A few months ago I finished my diploma for web-developement and now I'm accumulating the information into 
-my own project. As I moved out from my parents i started to make my flat smart. In every aspect. Soon i bought myself
-a raspberry and started to love coding different scripts. Over the time i aquired a wide base of knowledge around linux, javaScript, bash, NodeJS, PHP, SQL and a
-bit of python. After short time i realized that i found my passion where i want to spend the rest of my time.
+I'm a seasoned and systems engineer and linux backend developer with a passion for creating highly customized, industry-scale off-cloud, and privacy-centric smart-home solutions and applications. With over 9 years of Linux experience, I've mastered the art of integrating smart technologies across all brands and interfaces, be it IR, BLE, ZigBee, WiFi, or wired solutions, all running locally for maximum data security and privacy, in the most integrated and consice way - as this fuels my nerd soul 🤓
 
-👀 I love reading and aquiring new information so I need dedicated time to spend with my macBook every day, otherwise I'm getting dis-balanced. Currently
-I'm working on Home Assistant in the dockerized version after it replaced homebridge a time ago. I thrive doing things around my smart home and want to start a career 
-in that field soon. 
+## About Me 🚀🤓
 
-in the past 4 years i worked with: 
- - Linux Debian
- - Docker
- - node.js
- - different API's
- - websocket communication
- - bluetooth & WIFi presence detection
- - ESPHome & custom firmwares for tuya devices 
- - zigBee & MQTT 
- - bash scripting
- - LAMP-servers
- - HAP-node.js 
- - AppDaemons
- - NodeRED
- - DIY circuits
+- 🇦🇹 Austrian-based 27 years old living in the probably smartest home around my city
+- 🎓 I am a self-taught developer with a deep passion & understanding of Linux systems
+- 💻 I am currently working on a robust and comprehensive Product Information Management (PIM) system for e-commerce platforms, 
+- 🏡 I run a fully integrated smart-home with Home Assistant on a local Docker-Swarm cluster.
+- 🌐 I maintain a web server stack for my personal website, created with PHP.
+- 🌱 I am constantly learning and looking to improve my skills.
 
-🌱 I’m currently learning javaScript because i want to write my own code which serves my purpose best. Also I'm working on my own website to write about my projects 
-and implementations and to share knowledge with the community from which i learned so much. I appreciate this source of information very much and I want to contribute
-my part to that. 
-#opensource
+## Skills 🛠️
 
-💞️ I would love to learn more and maybe start collaborating with someone in the future. I will try to document my code regularly :)
-📫 If you would like to reach me, feel free to write a private message. 
+- **Languages:** Node.js, Python, Bash, PHP
+- **Databases:** SQL, Vector
+- **DevOps:** Docker, Ansible, Traefik, OpenVPN, GlusterFS
+- **IoT:** Home Assistant, Node-RED, ESPHome, Zigbee2mqtt, AppDaemon, Mosquitto
+- **Web Development:** Keystone.js, GraphQL, MVC pattern
+- **Machine Learning:** MindsDB, LLM
 
-Thanks for your time!
+## What I'm Learning 📚
 
-<!---
-TheGreenJosip/TheGreenJosip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **JavaScript:** I am currently deep-diving into JavaScript to enhance my skills and understanding in industry scaling applications with node.js
+- **Web-Scraping** I'm gaining skills in pupeteer, crawlee and other frameworks including proxying to develop them efficiantly.
+- **LLM Frameworks:** I am exploring various LLM frameworks to leverage them for machine learning tasks.
+- **Microsoft Azure:** As a co-founder and CTO of the e-commerce SaaS, I am learning a lot about DevOps with Microsoft Azure and exploring their AI services & capabilities
+
+
+## Projects 💼 (further descriptions to come)
+
+- **[E-commerce PIM System](link-to-project):** A service designed to streamline the process of maintaining e-commerce products in a revolutenizing new way. The system is built on a Node.js backend using Keystone.js, with a GraphQL API to manage various models. 
+
+
+- **[Smart-Home System](link-to-smart-home-project):** A fully integrated, off-cloud, privacy-aware smart home system running on a local Docker-Swarm cluster. This system is designed to work across all brands and interfaces, ranging from IR, BLE, ZigBee, WiFi, to wired solutions. It uses various IoT services and databases, and is maintained with Ansible for easier orchestration. It also features high availability and accessibility with GlusterFS distributing all data amongst all nodes. All data is stored locally, ensuring maximum privacy and data security.
+
+## Connect with me 🌐
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/josip-grgic-102753194/)
+- 📧 [Email](mailto:josip.grgic@noknots.com)
+
+---
+
+⭐️ From [thegreenjosip](https://github.com/TheGreenJosip)
