@@ -20,13 +20,13 @@ With over **9 years of experience** in SaaS, IoT, Cloud, and AI‑driven applica
 
 ## 🛠️ Skills
 
-**Languages:** Node.js, TypeScript, Python, Bash, PHP  
-**Databases:** PostgreSQL, Redis, MongoDB, Neo4j, pgvector  
-**Cloud & DevOps:** Microsoft Azure (primary), AWS, Docker, Kubernetes, Docker‑Swarm (Production‑Grade), Traefik, Terraform, Ansible, CI/CD (GitHub Actions)  
-**IoT:** Home Assistant, Node‑RED, ESPHome, Zigbee2MQTT, AppDaemon, Mosquitto  
-**Web Development:** Keystone.js, GraphQL, MVC pattern, REST APIs  
-**AI/LLM Integration:** GPT‑4, LangChain.js, RAG, Embeddings, Conversational Interfaces  
-**Other:** GlusterFS (HA storage), OpenVPN, Cloudflared, Pi‑hole
+- **Languages:** Node.js, TypeScript, Python, Bash, PHP  
+- **Databases:** PostgreSQL, Redis, MongoDB, Neo4j, pgvector  
+- **Cloud & DevOps:** Microsoft Azure (primary), AWS, Docker, Kubernetes, Docker‑Swarm (Production‑Grade), Traefik, Terraform, Ansible, CI/CD (GitHub Actions)  
+- **IoT:** Home Assistant, Node‑RED, ESPHome, Zigbee2MQTT, AppDaemon, Mosquitto  
+- **Web Development:** Keystone.js, GraphQL, MVC pattern, REST APIs  
+- **AI/LLM Integration:** GPT‑5, LangChain.js, RAG, Embeddings, Conversational Interfaces  
+- **Other:** GlusterFS (HA storage), OpenVPN, Cloudflared, Pi‑hole
 
 ---
 
